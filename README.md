@@ -26,13 +26,14 @@ Train accuracy 97.8% with  0.0703 loss
 # Observations
 
 
- <img src="/Accuracy_Graph.png" width="400" height="280">
- <img src="/Loss_Graph.png" width="400" height="280>
+ <img src="./Accuracy_Graph.png" width="400" height="280">
+ <img src="./Loss_Graph.png" width="400" height="280">
   
   From the above plot, we can observe that the model converges faster with larger batch size with relatively higher accuracy and lower loss in the first few epochs.
-
-# References:
+ 
+ # References:
 
 1) https://www.analyticsvidhya.com/blog/2020/03/tensorflow-2-tutorial-deep-learning/
 
 
+'
