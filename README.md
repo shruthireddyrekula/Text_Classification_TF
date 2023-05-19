@@ -35,7 +35,7 @@ Train accuracy 97.8% with  0.0703 loss
   
 <img src="./Accuracy_Graph_Dense_Layers.png" width="400" height="280">
 <img src="./Loss_Graph_Dense_layers.png" width="400" height="280">
-From the above plot, we can observe that the model accuracy or loss does not have impact with additional layers of neural network, so we can consider the results from the above plot with 3 layers of neural networks.
+From the above plot, we can observe that the model accuracy or loss does not have impact with additional layers of neural network, so we can consider the results from the above plot with 3 layers of neural networks. From the graph, we can observe that 3 layers of neural network is sufficient for this dataset as adding additional network layers have the similar results.
   
  # References:
 
