@@ -30,7 +30,14 @@ Train accuracy 97.8% with  0.0703 loss
  <img src="./Loss_Graph.png" width="400" height="280">
   
   From the above plot, we can observe that the model converges faster with larger batch size with relatively higher accuracy and lower loss in the first few epochs.
- 
+  
+  ## Observation with additional Neural Network Layer
+  
+     <img src="./Accuracy_Graph_Dense_Layers.png" width="400" height="280">
+     <img src="./Loss_Graph_Dense_layers.png" width="400" height="280">
+
+     From the above plot, we can observe that the model accuracy or loss does not have impact with additional layers of neural network, so we can consider the results from the above plot with 3 layers of neural networks.
+  
  # References:
 
 1) https://www.analyticsvidhya.com/blog/2020/03/tensorflow-2-tutorial-deep-learning/
