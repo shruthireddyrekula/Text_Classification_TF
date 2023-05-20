@@ -19,9 +19,13 @@ This is a quick introduction to use tensorflow for image classification problem.
 7. Get the model prediction on new test data
 
 
-# Sample
+# Data
 
-<img width="603" alt="image" src="https://github.com/shruthireddyrekula/Text_Classification_TF/assets/12846189/8281039b-037a-44d8-9878-e3f57c500ffb">
+Size of train data: ~17000 tweets.
+
+Here are few randomly sampled tweets from the train data:
+<img width="626" alt="image" src="https://github.com/shruthireddyrekula/Text_Classification_TF/assets/12846189/8661b57b-b165-4933-b8d0-4d425a5c3860">
+
 
 
 # Results
