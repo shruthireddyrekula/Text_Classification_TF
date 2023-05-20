@@ -18,6 +18,12 @@ This is a quick introduction to use tensorflow for image classification problem.
 
 7. Get the model prediction on new test data
 
+
+# Sample
+
+<img width="603" alt="image" src="https://github.com/shruthireddyrekula/Text_Classification_TF/assets/12846189/8281039b-037a-44d8-9878-e3f57c500ffb">
+
+
 # Results
 
 
