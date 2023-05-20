@@ -2,7 +2,7 @@
 # Text_Classification using Tensorflow 2.0 (Keras)
 
 
-This is a quick introduction to use tensorflow for image classification problem. Here are the steps to follow
+This is a quick introduction to use tensorflow for text classification problem. Here are the steps to follow
 
 1. Load train and test data
 
